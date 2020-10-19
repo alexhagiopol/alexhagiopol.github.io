@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-[PDF version](/content/resume.pdf).
+[Download as .PDF file.](/content/resume.pdf).
 
 ### Alex Hagiopol
 
@@ -13,9 +13,15 @@ Email: [alexhagiopol@gmail.com](mailto:alexhagiopol@gmail.com)
 Software: [github.com/alexhagiopol](https://github.com/alexhagiopol)
 Research: [alexhagiopol.github.io](https://alexhagiopol.github.io)
 
+### Expertise
+
+1. Modern C++, Python, GPU Programming with CUDA 
+2. Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, codebase maintenance)
+3. Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations)
+
 ### Experience
 
-#### [Facebook](tech.fb.com/ar-vr/)                  	                
+*[Facebook](tech.fb.com/ar-vr/)*                  	                
 Computer Vision Engineer, Facebook Reality Labs                             
 San Francisco Bay Area, CA
 Mar 2020 - Present
@@ -24,7 +30,7 @@ Mar 2020 - Present
 2. Designed and implemented on-device depth estimation algorithms. Performed literature review, software implementation, and evaluation. Influenced adjacent team to incorporate work into on-product silicon implementations.
 3. Core contributor to on-product runtime optimization of core computer vision algorithm implementations in modern C++.
 
-#### [Microsoft](microsoft.com/en-us/mixed-reality)                     
+*[Microsoft](microsoft.com/en-us/mixed-reality)*                     
 Software Engineer, AI Perception and Mixed Reality Group                  
 San Francisco Bay Area, CA
 Oct 2017 - Nov 2019
@@ -34,7 +40,7 @@ Oct 2017 - Nov 2019
 3. Designed and implemented a high-precision human segmentation system based on research in statistical learning and deep learning applied to image segmentation. Implemented statistical learning mathematics in C++ and implemented neural network structure and training in Python and TensorFlow. This work advanced the group’s state-of-the-art in the problem domain and led to first-authoring a patent application, “Segmentation for Holographic Images”, approved by Microsoft Legal and currently under review by the U.S. Patent and Trademark Office.
 Maintained, refactored, and unit tested MSR algorithm codebases as the code moved from research to production. Created a unit testing system, removed over 3 million lines of C++ and CUDA code through refactoring, and converted the codebases’ version control systems from deprecated internal tools to Git.
 
-#### [DroneDeploy](dronedeploy.com)                                      
+*[DroneDeploy](dronedeploy.com)*                                    
 Software Engineer, Computer Vision Group                                  
 San Francisco Bay Area, CA
 May 2016 - June 2017
@@ -43,7 +49,7 @@ May 2016 - June 2017
 2. Contributed software features yielding a 3D mapping reliability increase from < 50% to 99.9% in 8 months. This work included contributions in areas such as point cloud generation, mesh generation, and mesh texturing.
 3. Contributed new product features including neural network based classifier for map regions of interest, and fast 2D map preview using feature detection, feature matching, and image transformations. Both implemented in Python. 
 
-#### [NASA](nasa.gov)                          
+*[NASA](nasa.gov)*                          
 Research Intern, Autonomy Incubator Group                
 Hampton, VA & Remote
 May 2015 - May 2016
@@ -60,17 +66,17 @@ Aug 2014 - May 2016
 2. Collaborated with NASA researchers to develop a 3D reconstruction system based on frame-to-frame region-of-interest tracking and 3D planar region pose optimization. Implemented region-of-interest detection, region tracking, optimization mathematics, visualization pipeline in C++, MATLAB, and GTSAM. Presented results at AIAA conference.
 
 ### Education
-[Georgia Institute of Technology](cc.gatech.edu)
+*[Georgia Institute of Technology](cc.gatech.edu)*
 Atlanta, GA
 
-#### M.Sc. in Computer Science
+M.Sc. in Computer Science
 GPA: 3.8
 Full Scholarship
 Dean’s List
 Dec 2016
 Studied Computer Vision, Machine Learning, Computational Photography, Advanced Algorithm Design & Analysis, and Robotics.
 
-#### B.Sc. in Mechanical Engineering
+B.Sc. in Mechanical Engineering
 GPA: 3.9
 Full Scholarship
 Dean’s List
