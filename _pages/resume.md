@@ -16,7 +16,7 @@ author_profile: true
 ### Expertise
 
 * Modern C++, Python, GPU Programming with CUDA 
-* Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, codebase maintenance)
+* Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, codebase maintenance, version control)
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations)
 
 ### Experience
