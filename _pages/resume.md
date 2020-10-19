@@ -9,9 +9,9 @@ author_profile: true
 
 ### Alex Hagiopol
 
-Email: [alexhagiopol@gmail.com](mailto:alexhagiopol@gmail.com)
-Software: [github.com/alexhagiopol](https://github.com/alexhagiopol)
-Research: [alexhagiopol.github.io](https://alexhagiopol.github.io)
+* Email: [alexhagiopol@gmail.com](mailto:alexhagiopol@gmail.com)
+* Software: [github.com/alexhagiopol](https://github.com/alexhagiopol)
+* Research: [alexhagiopol.github.io](https://alexhagiopol.github.io)
 
 ### Expertise
 
