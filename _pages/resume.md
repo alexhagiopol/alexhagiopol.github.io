@@ -58,7 +58,7 @@ Maintained, refactored, and unit tested MSR algorithm codebases as the code move
 * Integrated and adapted visual odometry and visual SLAM algorithms into the UAV’s navigation system, performed performance evaluations, and reported results and recommendations to technical leadership. 
 
 [Institute for Robotics & Intelligent Machines @ Georgia Tech](robotics.gatech.edu) 
-* Graduate Research Assistant (Advisor: Frank Delaert) 
+* Graduate Research Assistant (Advisor: Frank Dellaert) 
 * Atlanta, GA
 * Aug 2014 - May 2016
 
