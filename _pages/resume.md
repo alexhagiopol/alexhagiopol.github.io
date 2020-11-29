@@ -27,7 +27,7 @@ author_profile: true
 * Mar 2020 - Present
 
 * Contributed computer vision software and research to the core technology stack of future Oculus and Portal products.
-* Designed and implemented on-device depth estimation algorithms. Performed literature review, software implementation, and evaluation. Influenced adjacent team to incorporate work into on-product silicon implementations.
+* Designed and implemented on-device depth estimation algorithms. Performed literature review, software implementation, and evaluation. Influenced adjacent teams to incorporate designs into on-product silicon implementations.
 * Core contributor to on-product runtime optimization of core computer vision algorithm implementations in modern C++.
 
 *[Microsoft](microsoft.com/en-us/mixed-reality)*                     
@@ -37,7 +37,7 @@ author_profile: true
 
 * Collaborated with Microsoft Research (MSR) to develop computer vision research papers into features and content for products including HoloLens 2. Contributed R&D in areas of geometric computer vision and machine learning based computer vision. Made software engineering contributions in modern C++, CUDA, and Python.
 * Designed and implemented a GPU-accelerated dense 3D scene reconstruction system based on MSR research in multi-view stereo. Created software implementations of core linear algebra routines, image processing, stereo vision geometry, disparity estimation via GPU PatchMatch, dense point cloud generation (triangulation, fusion, filtering, and normals estimation) from scratch in pure C++ and CUDA based on research literature. This work replaced a legacy point cloud generator in < 10% the number of lines of code. Current work is CPU and GPU performance optimization as well as algorithm-level improvements to reconstruction quality.
-* Designed and implemented a high-precision human segmentation system based on research in statistical learning and deep learning applied to image segmentation. Implemented statistical learning mathematics in C++ and implemented neural network structure and training in Python and TensorFlow. This work advanced the group’s state-of-the-art in the problem domain and led to first-authoring a patent application, “Segmentation for Holographic Images”, approved by Microsoft Legal and currently under review by the U.S. Patent and Trademark Office.
+* Designed and implemented a high-precision human segmentation system based on research in statistical learning and deep learning applied to image segmentation. Implemented statistical learning mathematics in C++ and implemented neural network structure and training in Python and TensorFlow. This work advanced the group’s state-of-the-art in the problem domain and led to first-authoring a 2019 patent application, [“Segmentation for Holographic Images”](https://pdfaiw.uspto.gov/.aiw?PageNum=0&docid=20200372659&IDKey=&HomeUrl=%2F).
 Maintained, refactored, and unit tested MSR algorithm codebases as the code moved from research to production. Created a unit testing system, removed over 3 million lines of C++ and CUDA code through refactoring, and converted the codebases’ version control systems from deprecated internal tools to Git.
 
 *[DroneDeploy](dronedeploy.com)*                                    
