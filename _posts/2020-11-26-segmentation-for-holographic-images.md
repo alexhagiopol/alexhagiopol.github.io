@@ -21,7 +21,7 @@ improves resulting hologram photorealism relative to previously established prio
 The invention enhances augmented reality applications such as using human avatars for communication or preservation purposes. 
 This technology was used by Microsoft's [Mixed Reality Capture Studios](https://www.microsoft.com/en-us/mixed-reality/capture-studios).
 
-The following image shows the drastic improvement in human avatar quality achieved with the described approach:
+The following image shows the improvement in human avatar quality achieved with the described approach:
 
 ![fig6](/content/patent_fig_6.png)
 
