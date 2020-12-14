@@ -19,7 +19,12 @@ My [2019 U.S. Patent Application, "Segmentation for Holographic Images"](https:/
 describes a method of 2D image segmentation that - when used as a precursor to 3D reconstruction algorithms - greatly 
 improves resulting hologram photorealism relative to previously established prior art such as [this landmark 2015 paper by Collet et al](https://dl.acm.org/doi/abs/10.1145/2766945). 
 The invention enhances augmented reality applications such as using human avatars for communication or preservation purposes. 
-This technology was used by Microsoft's [Mixed Reality Capture Studio](https://www.microsoft.com/en-us/mixed-reality/capture-studios).
+This technology was used by Microsoft's [Mixed Reality Capture Studios](https://www.microsoft.com/en-us/mixed-reality/capture-studios).
+
+The following image shows the drastic improvement in human avatar quality achieved with the described approach:
+
+![fig6](/content/patent_fig_6.png)
+
 
 ### Summary:
 
