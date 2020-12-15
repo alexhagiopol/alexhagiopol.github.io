@@ -1,7 +1,7 @@
 ---
 title: 'Segmentation For Holographic Images'
 date: 2020-11-26
-permalink: /posts/2019/10/segmentation-for-holographic-images/
+permalink: /posts/2020/11/segmentation-for-holographic-images/
 tags:
   - computer vision
   - 3D reconstruction
