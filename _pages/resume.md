@@ -22,7 +22,7 @@ author_profile: true
 ### Experience
 
 *[Facebook](tech.fb.com/ar-vr/)*                  	                
-* Computer Vision Engineer, Facebook Reality Labs                             
+* Software Engineer, Facebook Reality Labs                             
 * San Francisco Bay Area, CA
 * Mar 2020 - Present
 
