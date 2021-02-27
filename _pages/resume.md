@@ -22,9 +22,11 @@ author_profile: true
 ### Experience
 
 *[Facebook](tech.fb.com/ar-vr/)*                  	                
+* Senior Software Engineer, Facebook Reality Labs                             
+* Feb 2021 - Present
 * Software Engineer, Facebook Reality Labs                             
+* Mar 2020 - Feb 2021
 * San Francisco Bay Area, CA
-* Mar 2020 - Present
 
 * Contributed technical leadership and production software to Facebook’s effort to ship the world’s next computing platform to consumers. Created the foundation of Oculus augmented reality products by writing fundamental mathematical software, scientific research paper implementations, and software infrastructure in C++ and CUDA. 
 * Designed and implemented on-device algorithms for scene reconstruction. Performed scientific literature review, software implementation, and evaluation. Influenced hardware teams to implement my work into on-product silicon.
@@ -33,8 +35,8 @@ author_profile: true
 
 *[Microsoft](microsoft.com/en-us/mixed-reality)*                     
 * Software Engineer, AI Perception and Mixed Reality Group                  
-* San Francisco Bay Area, CA
 * Oct 2017 - Nov 2019
+* San Francisco Bay Area, CA
 
 * Collaborated with Microsoft Research (MSR) to develop scientific research papers into features for the [HoloLens 2](https://www.microsoft.com/en-us/hololens/buy) augmented reality headset. Contributed machine learning and computer vision research in addition to production software in modern C++, CUDA, and Python.
 * Designed and implemented my organization’s core computer vision technology in the form of a GPU-accelerated dense 3D scene reconstruction system. Designed and implemented the core mathematical algorithms in the following areas: linear algebra, image processing, computational geometry, computer vision, and machine learning. This work replaced a legacy technology in 10X fewer lines of code with 10X faster performance.
@@ -42,9 +44,9 @@ author_profile: true
 * Maintained, refactored, and unit tested MSR algorithm codebases as the code moved from research to production. Created a unit testing system, removed over 3 million lines of C++ and CUDA code through refactoring, and converted the codebases’ version control systems from deprecated internal tools to Git.
 
 *[DroneDeploy](dronedeploy.com)*                                    
-* Software Engineer, Computer Vision Group                                  
-* San Francisco Bay Area, CA          
+* Software Engineer, Computer Vision Group                                            
 * May 2016 - June 2017
+* San Francisco Bay Area, CA
 
 * Contributed to a C++ computational geometry engine that computes 3D maps using 2D drone-captured imagery.
 * Contributed C++ software features yielding a 3D mapping reliability increase from < 50% to 99.9% in 8 months without affecting result quality or computation speed.
@@ -52,8 +54,8 @@ author_profile: true
 
 *[NASA](nasa.gov)*                          
 * Research Intern, Autonomy Incubator Group                
-* Hampton, VA & Remote
 * May 2015 - May 2016
+* Hampton, VA & Remote
 
 * Researched and implemented computer vision and machine learning algorithms applied to autonomous robotics.
 * Investigated computer vision based localization techniques applied to NASA’s prototype robots for Mars exploration. Contributed implementation improvements, literature research, and visualization tools for performance evaluation.
