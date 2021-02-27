@@ -39,7 +39,7 @@ author_profile: true
 * San Francisco Bay Area, CA
 
 * Collaborated with Microsoft Research (MSR) to develop scientific research papers into features for the [HoloLens 2](https://www.microsoft.com/en-us/hololens/buy) augmented reality headset. Contributed machine learning and computer vision research in addition to production software in modern C++, CUDA, and Python.
-* Designed and implemented my organization’s core computer vision technology in the form of a GPU-accelerated dense 3D scene reconstruction system. Designed and implemented the core mathematical algorithms in the following areas: linear algebra, image processing, computational geometry, computer vision, and machine learning. This work replaced a legacy technology in 10X fewer lines of code with 10X faster performance.
+* Designed and implemented my organization’s core computer vision technology in the form of a GPU-accelerated dense 3D scene reconstruction system. Designed and implemented the core mathematical algorithms in the following areas: linear algebra, image processing, computational geometry, computer vision, and machine learning. This work replaced a legacy technology in 20X fewer lines of code and achieved 10X faster performance.
 * Designed and implemented a machine learning system for high-precision segmentation system based on research in statistical learning and deep learning. Designed and implemented the core statistical learning algorithms in C++ and CUDA. Leveraged Python and TensorFlow for neural network components. This work advanced the group’s state-of-the-art in the problem domain and led to first-authoring a patent application, [“Segmentation for Holographic Images”](https://alexhagiopol.github.io/posts/2020/11/segmentation-for-holographic-images/).
 * Maintained, refactored, and unit tested MSR algorithm codebases as the code moved from research to production. Created a unit testing system, removed over 3 million lines of C++ and CUDA code through refactoring, and converted the codebases’ version control systems from deprecated internal tools to Git.
 
@@ -59,7 +59,7 @@ author_profile: true
 
 * Researched and implemented computer vision and machine learning algorithms applied to autonomous robotics.
 * Investigated computer vision based localization techniques applied to NASA’s prototype robots for Mars exploration. Contributed implementation improvements, literature research, and visualization tools for performance evaluation.
-* Collaborated with NASA researchers to develop a 3D reconstruction system based on frame-to-frame region-of-interest tracking and numerical optimization of 3D planar region poses. Implemented region-of-interest detection, region tracking, optimization mathematics, visualization pipeline in C++. Presented results at AIAA conference and to NASA leadership which led to earning grant funding for my M.Sc. studies.
+* Developed a 3D reconstruction system based on multi-object tracking and numerical optimization of 3D poses. Implemented region-of-interest detection, region tracking, optimization mathematics, visualization pipeline in C++. Presented results at AIAA conference and to NASA leadership which led to earning grant funding for my M.Sc. studies.
 
 ### Education
 *[Georgia Institute of Technology](cc.gatech.edu)*
