@@ -7,12 +7,6 @@ author_profile: true
 
 [Download as .PDF file](/content/resume.pdf).
 
-### Alex Hagiopol
-
-* Contact: [alexhagiopol@gmail.com](mailto:alexhagiopol@gmail.com)
-* Software: [github.com/alexhagiopol](https://github.com/alexhagiopol)
-* Research: [alexhagiopol.github.io](https://alexhagiopol.github.io)
-
 ### Expertise
 
 * Programming in Modern C++, Python, and CUDA. 
