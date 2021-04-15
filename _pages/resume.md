@@ -10,21 +10,21 @@ author_profile: true
 ### Expertise
 
 * Programming in Modern C++, Python, and CUDA. 
-* Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, codebase maintenance, version control)
+* Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control)
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations)
 
 ### Experience
 
 *[Facebook](tech.fb.com/ar-vr/)*                  	                
-* Senior Software Engineer, Facebook Reality Labs                             
+* Senior Software Engineer, Facebook Reality Labs                        
 * Feb 2021 - Present
 * Software Engineer, Facebook Reality Labs                             
 * Mar 2020 - Feb 2021
 * San Francisco Bay Area, CA
 
-* Contributed technical leadership and production software to Facebook’s effort to ship the world’s next computing platform to consumers. Created the foundation of Oculus augmented reality products by writing fundamental mathematical software, scientific research paper implementations, and software infrastructure in C++ and CUDA. 
+* Contributed technical leadership and production software to Facebook’s effort to ship the world’s next computing platform. Created the foundation of Oculus augmented reality products by writing fundamental mathematical software, scientific research paper implementations, and critical software infrastructure in C++ and CUDA. 
 * Designed and implemented on-device algorithms for scene reconstruction. Performed scientific literature review, software implementation, and evaluation. Influenced hardware teams to implement my work into on-product silicon.
-* Designed and implemented a GPGPU mathematical algorithm pipeline used to simulate silicon implementations of on-product computer vision algorithms. Unblocked research and development efforts across a 300+ person organization by providing algorithm results in a live application 1+ year before the physical silicon itself could be tested. Designed and implemented linear algebra library, computational geometry library, numerical optimizer library, the computer vision algorithms in question, and build and testing infrastructure all in multithreaded modern C++ and CUDA.
+* Designed and implemented a GPGPU mathematical algorithm pipeline used to simulate silicon implementations of on-product computer vision algorithms. This effort unblocked research and development efforts across a 300+ person organization. Designed and implemented linear algebra library, computational geometry library, numerical optimizer library, the algorithms themselves, and build and testing infrastructure all in multithreaded modern C++ and CUDA.
 * Led my team’s software engineering standards committee. Designed and executed software quality standards and metrics that influenced 10+ engineers to contribute to code quality, design documentation, and unit test coverage.
 
 *[Microsoft](microsoft.com/en-us/mixed-reality)*                     
