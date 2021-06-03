@@ -16,16 +16,14 @@ author_profile: true
 ### Experience
 
 *[Facebook](tech.fb.com/ar-vr/)*                  	                
-* Senior Software Engineer, Facebook Reality Labs                        
-* Feb 2021 - Present
 * Software Engineer, Facebook Reality Labs                             
-* Mar 2020 - Feb 2021
+* Mar 2020 - Present
 * San Francisco Bay Area, CA
 
 * Contributed technical leadership and production software to Facebook’s effort to ship the world’s next computing platform. Created the foundation of Oculus augmented reality products by writing fundamental mathematical software, scientific research paper implementations, and critical software infrastructure in C++ and CUDA. 
 * Designed and implemented on-device algorithms for scene reconstruction. Performed scientific literature review, software implementation, and evaluation. Influenced hardware teams to implement my work into on-product silicon.
-* Designed and implemented a GPGPU mathematical algorithm pipeline used to simulate silicon implementations of on-product computer vision algorithms. This effort unblocked research and development efforts across a 300+ person organization. Designed and implemented linear algebra library, computational geometry library, numerical optimizer library, the algorithms themselves, and build and testing infrastructure all in multithreaded modern C++ and CUDA.
-* Led my team’s software engineering standards committee. Designed and executed software quality standards and metrics that influenced 10+ engineers to contribute to code quality, design documentation, and unit test coverage.
+* Designed and implemented a GPGPU mathematical algorithm pipeline used to simulate silicon implementations of on-product computer vision algorithms. This effort unblocked research and development efforts across a 300+ person organization. Designed and implemented a linear algebra library, computational geometry library, numerical optimizer library, the algorithms themselves, and build and testing infrastructure all in multithreaded modern C++ and CUDA.
+* Led my org’s engineering standards committee. Designed the engineering documentation system used by my >45 person org. Designed the software quality standards used by my 10 person team. Individually mentored >15 people — including senior-to-me engineers and engineering managers — on programming and documentation standards.
 
 *[Microsoft](microsoft.com/en-us/mixed-reality)*                     
 * Software Engineer, AI Perception and Mixed Reality Group                  
