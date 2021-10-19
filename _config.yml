@@ -82,12 +82,8 @@ analytics:
 author:
   name             : "Alex Hagiopol"
   avatar           : "profile.png"
-  bio              : "Software Engineer, Applied Computer Vision"
   github           : "alexhagiopol"
-  linkedin         : "alexhagiopol"
   email            : "alexhagiopol@gmail.com"
-
-
 
 # Reading Files
 include:
