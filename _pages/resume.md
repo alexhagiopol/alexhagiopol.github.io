@@ -9,9 +9,10 @@ author_profile: true
 
 ### Expertise
 
-* Programming in Modern C++, Python, and CUDA. 
-* Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control)
-* Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations)
+* Technical Leadership (roadmap development and execution, cross-functional listening and influencing, developing engineering talent).
+* Programming (modern C++, CUDA, and Python). 
+* Software Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
+* Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations).
 
 ### Experience
 
@@ -20,10 +21,10 @@ author_profile: true
 * Mar 2020 - Present
 * San Francisco Bay Area, CA
 
-* Contributed technical leadership and production software to Facebook’s effort to ship the world’s next computing platform. Created the foundation of Oculus augmented reality products by writing fundamental mathematical software, scientific research paper implementations, and critical software infrastructure in C++ and CUDA. 
-* Designed and implemented on-device algorithms for scene reconstruction. Performed scientific literature review, software implementation, and evaluation. Influenced hardware teams to implement my work into on-product silicon.
-* Designed and implemented a GPGPU mathematical algorithm pipeline used to simulate silicon implementations of on-product computer vision algorithms. This effort unblocked research and development efforts across a 300+ person organization. Designed and implemented a linear algebra library, computational geometry library, numerical optimizer library, the algorithms themselves, and build and testing infrastructure all in multithreaded modern C++ and CUDA.
-* Led my org’s engineering standards committee. Designed the engineering documentation system used by my >45 person org. Designed the software quality standards used by my 10 person team. Individually mentored >15 people — including senior-to-me engineers and engineering managers — on programming and documentation standards.
+* Contributed technical leadership and production software to Oculus augmented reality products. 
+Designed and implemented mathematical software that unblocked product development for a 100+ person effort across 5+ engineering teams. This took the form of a real time, modern C++ and CUDA algorithm pipeline that emulates the behavior of algorithms implemented in physical silicon. This software allowed augmented reality product developers to do their work ~2 years before physical silicon availability.
+* Led the pipeline’s development which included collecting user needs, doing most of the design and implementation, and reviewing code changes from 30+ engineers who made major and minor contributions over 1+ years of development and use. Designed and implemented the pipeline’s architecture as well making key contributions to major sub-components such as a linear systems solver, a computational geometry library, a computer vision based scene reconstruction algorithm, a machine learning based image segmentation algorithm, and a visualization system. Refactored legacy components and produced a >500X end-to-end performance improvement: before I joined to lead the project, the organization considered such a pipeline infeasible to implement in real time. Developed the my team’s technical expertise on topics such as modern C++ concurrency, CUDA performance optimization, and computer vision algorithms. Shipped this system to its users and provided support to ensure their (and their organizations’) success.
+* Led my organizations’s engineering standards committee. Designed the engineering documentation system used by my 55+ person organization. Designed the software quality practices used by my immediate 10 person team. Individually mentored 25+ engineers on programming and documentation standards.
 
 *[Microsoft](microsoft.com/en-us/mixed-reality)*                     
 * Software Engineer, AI Perception and Mixed Reality Group                  
@@ -44,15 +45,6 @@ author_profile: true
 * Contributed C++ software features yielding a 3D mapping reliability increase from < 50% to 99.9% in 8 months without affecting result quality or computation speed.
 * Contributed new product features including neural network based classifier for map regions of interest, and fast 2D map preview using feature detection, feature matching, and image transformations.
 
-*[NASA](nasa.gov)*                          
-* Research Intern, Autonomy Incubator Group                
-* May 2015 - May 2016
-* Hampton, VA & Remote
-
-* Researched and implemented computer vision and machine learning algorithms applied to autonomous robotics.
-* Investigated computer vision based localization techniques applied to NASA’s prototype robots for Mars exploration. Contributed implementation improvements, literature research, and visualization tools for performance evaluation.
-* Developed a 3D reconstruction system based on multi-object tracking and numerical optimization of 3D poses. Implemented region-of-interest detection, region tracking, optimization mathematics, visualization pipeline in C++. Presented results at AIAA conference and to NASA leadership which led to earning grant funding for my M.Sc. studies.
-
 ### Education
 *[Georgia Institute of Technology](cc.gatech.edu)*
 Atlanta, GA
@@ -62,12 +54,10 @@ Atlanta, GA
 * Full Scholarship
 * Dean’s List
 * Studied Computer Vision, Machine Learning, Computational Photography, Advanced Algorithm Design & Analysis, and Robotics.
-* Dec 2016
 
 *B.Sc. in Mechanical Engineering*
 * GPA: 3.9
 * Full Scholarship
 * Dean’s List
 * Vice President of Tau Beta Pi
-* May 2012
 * Studied Linear Algebra, Calculus, Statistics, Numerical Methods, Data Structures, Algorithm Design & Analysis, and Robotics.
