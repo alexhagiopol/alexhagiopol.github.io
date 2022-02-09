@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a software engineer at [Facebook Reality Labs](https://tech.fb.com/ar-vr/) where I research and develop augmented reality technologies. Before Facebook, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to high-profile efforts such as the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) and the [NASA Mars Helicopter](https://mars.nasa.gov/technology/helicopter/).
+I research and develop augmented reality technologies at [Meta Reality Labs](https://about.facebook.com/realitylabs/). Before Meta, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to high-profile efforts such as the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) and the [NASA Mars Helicopter](https://mars.nasa.gov/technology/helicopter/).
 
 I've focused my career on algorithm development in classical and machine learning based computer vision, although I excel generally at the intersection of math and code. My interest is efficient implementation of the mathematical primitives and formulas at the heart of state-of-the-art algorithms. I especially enjoy parallel programming on CPUs and GPUs. 
 
