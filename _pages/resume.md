@@ -5,8 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
-[Download as .PDF file](/content/resume.pdf).
-
 ### Expertise
 * Technical Leadership (listening and influencing, roadmap development and execution, talent development).
 * Software Engineering (modern C++, CUDA, Python, systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
