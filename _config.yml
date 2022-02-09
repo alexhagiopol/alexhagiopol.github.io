@@ -83,7 +83,7 @@ author:
   name             : "Alex Hagiopol"
   avatar           : "profile.png"
   github           : "alexhagiopol"
-  email            : ""
+# email            : ""
 
 # Reading Files
 include:
