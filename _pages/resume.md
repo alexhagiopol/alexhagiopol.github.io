@@ -11,7 +11,7 @@ author_profile: true
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations).
 
 ### Experience
-*[Meta Platforms Inc.](https://about.facebook.com/realitylabs/)*                  	                
+*[Meta](https://about.facebook.com/realitylabs/)*                  	                
 * Senior Software Engineer, Meta Reality Labs                             
 * Mar 2020 - Present
 * San Francisco Bay Area, CA
