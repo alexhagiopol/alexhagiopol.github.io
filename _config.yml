@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alex Hagiopol"
   avatar           : "profile.png"
-  github           : "alexhagiopol"
-  linkedin         : "alexhagiopol"
+#  github           : "alexhagiopol"
+#  linkedin         : "alexhagiopol"
 # email            : ""
 
 # Reading Files
