@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Hagiopol"
+#  name             : "Alex Hagiopol"
   avatar           : "profile.png"
 #  github           : "alexhagiopol"
 #  linkedin         : "alexhagiopol"
