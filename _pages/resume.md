@@ -35,8 +35,7 @@ granted patent, US10902608B2 Segmentation for Holographic Images.
 * Refactored and unit tested legacy algorithm codebases as they moved from research to production. Pioneered the
 group’s unit testing system and deleted >3,000,000 lines of code through refactoring.
 
-*[DroneDeploy](https://www.dronedeploy.com)*
-* Research Intern, Autonomy Incubator Group 
+*[DroneDeploy](https://www.dronedeploy.com)* 
 * Software Engineer, Computer Vision Group 
 
 * Shipped the core technology of a Series B startup to >3000 customers which helped secure Series C funding.
