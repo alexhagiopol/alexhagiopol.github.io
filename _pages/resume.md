@@ -5,8 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
-[Download as a .PDF file.](/content/resume.pdf)
-
 ### Expertise
 * Technical Leadership (listening and influencing, org-scale roadmap development and execution, talent development).
 * Software Engineering (modern C++, CUDA, Python, systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
@@ -14,7 +12,7 @@ author_profile: true
 
 ### Experience
 *[Meta](https://tech.fb.com/ar-vr/)*
-* Staff / Principal Software Engineer, Reality Labs                             
+* Software Engineer, Reality Labs                           
 * Mar 2020 - Present
 * San Francisco Bay Area, CA
 * Contributed technical leadership and production software to unannounced augmented reality consumer products. Led
