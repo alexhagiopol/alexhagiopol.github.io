@@ -13,7 +13,7 @@ author_profile: true
 ### Experience
 *[Meta](https://tech.fb.com/ar-vr/)*
 * Staff Software Engineer & Technical Lead, Reality Labs (Feb 2022 - Present)
-* Senior Software Engineer, Reality Labs (Feb 2021 - Mar 2020)
+* Senior Software Engineer, Reality Labs (Feb 2021 - Feb 2022)
 * Software Engineer, Reality Labs (Mar 2020 - Feb 2021)
 * San Francisco Bay Area, CA
 * Contributed technical leadership and production software to unannounced augmented reality consumer products. Led
