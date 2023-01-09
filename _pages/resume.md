@@ -12,8 +12,9 @@ author_profile: true
 
 ### Experience
 *[Meta](https://tech.fb.com/ar-vr/)*
-* Software Engineer, Reality Labs                           
-* Mar 2020 - Present
+* Staff Software Engineer & Technical Lead, Reality Labs (Feb 2022 - Present)
+* Senior Software Engineer, Reality Labs (Feb 2021 - Mar 2020)
+* Software Engineer, Reality Labs (Mar 2020 - Feb 2021)
 * San Francisco Bay Area, CA
 * Contributed technical leadership and production software to unannounced augmented reality consumer products. Led
 engineering efforts across multiple teams to deliver product-critical software systems. Contributed production code and technical direction in areas such as general software engineering in modern C++, performance optimization for CPUs and GPUs, classical and machine learning based computer vision algorithms.
@@ -21,8 +22,7 @@ engineering efforts across multiple teams to deliver product-critical software s
 * Created the software engineering and documentation standards used by my >50 person org and multiple other partner teams at Meta. Individually mentored >30 engineers on programming and documentation standards.
 
 *[Microsoft](https://www.microsoft.com/en-us/mixed-reality)*
-* Software Engineer, AI Perception and Mixed Reality Group                  
-* Oct 2017 - Nov 2019
+* Software Engineer, AI Perception and Mixed Reality Group (Oct 2017 - Nov 2019)
 * San Francisco Bay Area, CA
 * Developed scientific research into features for HoloLens 2. Contributed machine learning and computer vision
 research in addition to production software in modern C++, CUDA, Python, and TensorFlow.
@@ -34,17 +34,15 @@ granted patent, US10902608B2 Segmentation for Holographic Images.
 group’s unit testing system and deleted >3,000,000 lines of code through refactoring.
 
 *[DroneDeploy](https://www.dronedeploy.com)* 
-* Software Engineer, Computer Vision Group 
-
-* Shipped the core technology of a Series B startup to >3000 customers which helped secure Series C funding.
+* Software Engineer, Computer Vision Group (May 2016 - Jul 2017)
+* San Francisco Bay Area, CA
+* Shipped the core technology of a Series B startup to >3000 customers which led to securing Series C funding.
 * Contributed to a 3D reality capture system that computes photorealistic 3D maps using 2D aerial imagery captured by
 drones. Unblocked shipping by increasing the reliability of this system in production from < 50% to 99.9% in 6 months.
 * Contributed product features such as a CNN-based classifier for map regions of interest and a real time 2D map preview capability based on classical feature detection and matching.
 
 *[NASA](https://www.nasa.gov)*                          
-* Research Intern, Autonomy Incubator Group 
-
-* May 2015 - May 2016
+* Research Intern, Autonomy Incubator Group (May 2015 - May 2016)
 * Hampton, VA & Remote
 * Contributed computer vision research and software to an early prototype of [NASA's Ingenuity Mars helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)). 
 * Investigated computer vision based localization techniques applied to NASA’s prototype robots for Mars exploration. Contributed software implementations, literature research, and visualization tools for performance evaluation.
@@ -52,7 +50,7 @@ drones. Unblocked shipping by increasing the reliability of this system in produ
 
 ### Education
 *[Georgia Institute of Technology](https://www.cc.gatech.edu)*
-Atlanta, GA
+* Atlanta, GA
 
 *M.Sc. in Computer Science*
 * GPA: 3.8
