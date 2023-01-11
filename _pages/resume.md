@@ -29,7 +29,7 @@ research in addition to production software in modern C++, CUDA, Python, and Ten
 * Created a GPU-accelerated dense 3D scene reconstruction system. Designed and implemented algorithms based on linear algebra, image processing, computational geometry, computer vision, and machine learning. This system
 replaced a legacy implementation in 20X fewer lines of code with 10X faster performance.
 * Designed and implemented a machine learning system for high-precision human segmentation based on research in statistical learning and deep learning. Advanced the group’s state-of-the-art in the problem domain and published a
-granted patent, US10902608B2 Segmentation for Holographic Images.
+granted patent, [US10902608B2 Segmentation for Holographic Images](https://patents.google.com/patent/US10902608B2).
 * Refactored and unit tested legacy algorithm codebases as they moved from research to production. Pioneered the
 group’s unit testing system and deleted >3,000,000 lines of code through refactoring.
 
