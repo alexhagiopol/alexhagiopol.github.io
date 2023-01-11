@@ -12,8 +12,4 @@ My most popular GitHub project: C++ and Python solutions to *Cracking the Coding
 
 ### Description:
 
-I created [this GitHub repository](https://github.com/alexhagiopol/cracking-the-coding-interview) where I write solutions to every problem in the computer science interview bible, *Cracking the Coding Interview*, in Python and C++. Furthermore, I produce the solutions with the highest level of engineering rigor I can attain: they have > 90% unit test coverage and an automatic build and testing system that verifies every solution any time code is changed. This project has gained the most public attention of any of my work on GitHub by an order of magnitude: it has over 400 stars, > 100 forks, and a place in the first page GitHub search results for the title of the textbook. 
-
-### Snapshot of a Solution:
-
-![CTCI Teaser Image](/content/interview_thumbnail.png)
+I created [this GitHub repository](https://github.com/alexhagiopol/cracking-the-coding-interview) where I write solutions to (most) problems in the popular computer science interview textbook, *Cracking the Coding Interview*, in Python and C++. The repository is differentiated by a high level of engineering rigor: the solutions have > 90% unit test coverage and an automatic build and testing system that compiles and verifies every solution. This project has gained the most public attention of any of my work on GitHub: it has over 500 stars, > 100 forks, and a place in the first page GitHub search results for the title of the textbook.
