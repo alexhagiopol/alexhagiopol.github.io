@@ -26,7 +26,7 @@ The driver function of the codebase is in the file [`gmm_segmentation.py`](https
 ![GMM Figure 2](/content/gmm_figure_2.png)
 
 ## Observations upon Initial Profiling:
-I insert cProfile calls inside the [main()](https://github.com/alexhagiopol/gmm/blob/ad23397e9da736799be6ecccc24719ac84fb8af9/gmm_segmentation.py#L318) function of `gmm_segmentation.py`. The profiling capability is compact requiring only two lines to construct and enable the profiler before the business logic gets executed and 5 lines to summarize and display the results afterward. The function calls `gmm_object.initialize_expectation_maximization()` and ` gmm_object.execute_expectation_maximization()` contain all of the logic we want to profile. 
+I insert cProfile calls inside the [main()](https://github.com/alexhagiopol/gmm/blob/ad23397e9da736799be6ecccc24719ac84fb8af9/gmm_segmentation.py#L318) function of `gmm_segmentation.py`. The profiling capability is compact requiring only two lines to construct and enable the profiler before the business logic gets executed and 5 lines to summarize and display the results afterward. The function calls `initialize_expectation_maximization()` and `execute_expectation_maximization()` contain all of the logic we want to profile.
 
 Upon executing the command line in the previous section on an AMD 3975WX CPU, we see the following (abridged) output:
 ```
