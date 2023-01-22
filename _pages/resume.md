@@ -5,6 +5,9 @@ permalink: /resume/
 author_profile: true
 ---
 
+### Contact
+* [recruit.alex.h@icloud.com](mailto:recruit.alex.h@icloud.com)
+
 ### Expertise
 * Technical Leadership (listening and influencing, org-scale roadmap development and execution, talent development).
 * Software Engineering (modern C++, CUDA, Python, systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
