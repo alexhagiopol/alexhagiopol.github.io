@@ -46,7 +46,7 @@ sys	0m18.049s
 
 The profiler recursively measures the time consumed by the functions that get called between the `profiler.enable()` and `profiler.disable()` calls. The functions are displayed in decreasing order of compute time consumed. Due to recursive operation, if `functionA()` internally calls `functionB()`, time spent in both functions is considered in the profiler ranking even though the profiler is only enabled and disabled once. 
 
-We see that the hottest function is `compute_expsum_stable()` in `gmm_segmentation.py`. Along with NumPy operators, we see also that `compute_expsum_stable()` calls a SciPy function, `scipy/stats/_continuous_distns.py:289(_norm_pdf)` (a.k.a `scipy.stats.norm.pdf()` in the actual code), which is listed as the third hottest. Therefore I decide to re-implement `compute_expsum_stable()` in C++ with hopes of increasing its performance. 
+We see that the hottest function is [`compute_expsum_stable()`](https://github.com/alexhagiopol/gmm/blob/b7a833e78dc53634de04dc3b9d591fdd8078c28f/gmm_segmentation.py#L109) in `gmm_segmentation.py`. Along with NumPy operators, we see also that `compute_expsum_stable()` calls a SciPy function, `scipy/stats/_continuous_distns.py:289(_norm_pdf)` (a.k.a `scipy.stats.norm.pdf()` in the actual code), which is listed as the third hottest. Therefore I decide to re-implement `compute_expsum_stable()` in C++ with hopes of increasing its performance. 
 
 ## Implementing, Compiling, and Importing a Custom C++ Module 
 
