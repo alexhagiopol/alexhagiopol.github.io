@@ -125,6 +125,7 @@ void write() {
 
 - An `std::mutex` is a fairly heavy weight mechanism involving the OS that allows arbitrary amounts of work to be doClassX // non-trivial initialization
 
+```
 if (!flag) {
     std::lock_guard{myMutex};
     if (!flag) {
