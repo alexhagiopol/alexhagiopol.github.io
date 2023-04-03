@@ -53,7 +53,7 @@ Figure 5 outlines the algorithm pipeline proposed in this patent in text form:
 ![fig5](/content/patent_fig_5.png)
 
 Figure 6 shows the final payoff of the proposed approach in terms of hologram quality. The top image is an input to the hologram
-reconstruction algorithm described [by Collet et al](https://dl.acm.org/doi/abs/10.1145/2766945). The lower left image 
+reconstruction algorithm described [by Collet et al](https://dl.acm.org/doi/abs/10.1145/2766945){:target="_blank"}. The lower left image 
 is a view of the hologram that is produced with traditional silhouette calculation approaches. The lower right image
 is a view of the hologram that is produced using the approach described in this patent. The improvement in reconstruction
 quality is drastic.
