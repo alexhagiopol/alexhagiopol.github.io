@@ -15,7 +15,7 @@ author_profile: true
 
 ### Experience
 *[Meta](https://tech.fb.com/ar-vr/){:target="_blank"}*
-* Software Engineer, Reality Labs (Mar 2020 - Present)
+* Software Engineer & Technical Lead, Reality Labs (Mar 2020 - Present)
 * San Francisco Bay Area, CA
 * Contributed technical leadership and production software to unannounced augmented reality consumer products. Led
 engineering efforts across multiple teams to deliver product-critical software systems. Contributed production code and technical direction in areas such as general software engineering in modern C++, performance optimization for CPUs and GPUs, classical and machine learning based computer vision algorithms.
