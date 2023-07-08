@@ -14,8 +14,10 @@ author_profile: true
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication in reports and presentations).
 
 ### Experience
-*[Meta](https://tech.fb.com/ar-vr/){:target="_blank"}*
-* Staff Software Engineer & Technical Lead, Reality Labs (Mar 2020 - Present)
+*[Meta Reality Labs](https://tech.fb.com/ar-vr/){:target="_blank"}*
+* Staff Software Engineer & Technical Lead (Feb 2022 - Present)
+* Senior Software Engineer (Feb 2021 - Feb 2022)
+* Software Engineer (Mar 2020 - Feb 2021)
 * San Francisco Bay Area, CA
 * Contributed technical leadership and production software to unannounced augmented reality consumer products. Led
 engineering efforts across multiple teams to deliver product-critical software systems. Contributed production code and technical direction in areas such as general software engineering in modern C++, performance optimization for CPUs and GPUs, classical and machine learning based computer vision algorithms.
