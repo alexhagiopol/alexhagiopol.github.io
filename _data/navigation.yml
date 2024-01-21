@@ -1,8 +1,4 @@
 # main links links
 main:
   - title: "Articles"
-    url: /articles/            
-    
-  - title: "Contact"
-    url: /contact/
-    
+    url: /articles/              
