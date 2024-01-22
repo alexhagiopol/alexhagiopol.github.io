@@ -26,7 +26,7 @@ I develop technologies at [Meta](https://about.meta.com/realitylabs/){:target="_
 * Leading across multiple teams developing systems for training machine learning models that underpin [codec avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a). Helping these teams transition research into production systems both through leadership and direct technical contributions in PyTorch-based codebases. 
 * Held two previous cross-team technical leardership roles. *Monetization*: Led engineers developing machine learning systems that optimize ads performance for Facebook and Instagram. *Reality Labs*: Led development of unannounced augmented reality products across multiple disciplines (algorithm research, software engineering, hardware development). 
 * Delivered algorithm research into product-critical systems while also improving upon the state of that research. Contributed production code and technical direction in areas such as machine learning systems, optimization for CPUs and GPUs, and general software engineering. 
-* Regularly delivered organization-level impact though technical and non-technical contributions. Examples: Delivered an 800X performance improvement of a product-critical algorithm implementation that changed the organization's shipping decision from no-go to go. Created the software engineering, documentation, and testing standards used by multiple >30 person engineering organizations at Meta which included individually mentoring of dozens of senior engineers.
+* Regularly delivered organization-level impact though technical and non-technical contributions. Examples: Delivered an 800X performance improvement of a product-critical algorithm implementation that changed the organization's shipping decision from no-go to go. Created the software engineering, documentation, and testing standards used by multiple 30-50 person engineering organizations at Meta which included individually mentoring dozens of senior engineers.
 
 *[Microsoft](https://www.microsoft.com/en-us/hololens){:target="_blank"}*
 * Software Engineer, AI Perception and Mixed Reality Group (2017 - 2019)
@@ -40,7 +40,7 @@ granted patent, [US10902608B2 Segmentation for Holographic Images](https://paten
 *[DroneDeploy](https://www.dronedeploy.com){:target="_blank"}* 
 * Software Engineer, Computer Vision Group (2016 - 2017)
 * San Francisco Bay Area, CA
-* Founded the company's computer vision group as the 14th employee, then created and shipped the company's core computer vision technology to >3000 customers which led to securing Series C venture capital funding. 
+* Founded the company's computer vision group as the 14th employee. Created and shipped the company's core computer vision technology to >3000 customers which led to securing Series C venture capital funding. 
 
 *[NASA](https://www.nasa.gov){:target="_blank"}*                          
 * Research Intern, Autonomy Incubator Group (2015 - 2016)
