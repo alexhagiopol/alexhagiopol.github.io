@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I develop new technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"}. Previously, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to efforts such as the [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens){:target="_blank"} and the [NASA Mars Helicopter](https://mars.nasa.gov/technology/helicopter/){:target="_blank"}. I generally like working at the intersection of math, code, and leadership.
+I develop new technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"}. Previously, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to efforts such as the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
 
 ## Contact:
 * [https://www.linkedin.com/in/alexhagiopol/](https://www.linkedin.com/in/alexhagiopol/){:target="_blank"} 
-
 
 ## Expertise:
 * Technical Leadership (listening and influencing, org-scale roadmap development and execution, talent development).
@@ -31,7 +30,7 @@ I develop new technologies at [Meta](https://about.meta.com/realitylabs/){:targe
 *[Microsoft](https://www.microsoft.com/en-us/hololens){:target="_blank"}*
 * Software Engineer, AI Perception and Mixed Reality Group (2017 - 2019)
 * San Francisco Bay Area, CA
-* Developed scientific research into features for [HoloLens 2](https://www.microsoft.com/en-us/hololens). Contributed machine learning and classical computer vision research in addition to production software in modern C++, CUDA, Python, and TensorFlow.
+* Developed scientific research into features for [HoloLens 2](https://en.wikipedia.org/wiki/HoloLens_2). Contributed machine learning and classical computer vision research in addition to production software in modern C++, CUDA, Python, and TensorFlow.
 * Improved my organization's state of the art in GPU-accelerated dense 3D reconstruction. Designed a system for solving this problem, implemented it in CUDA, and replaced a legacy GPU-accelerated system with the same output quality but 20X fewer lines of code and 10X faster performance.
 * Designed and implemented a machine learning system for high-precision human segmentation based on research in statistical learning and deep learning. Advanced the group’s state-of-the-art in the problem domain and published a
 granted patent, [US10902608B2 Segmentation for Holographic Images](https://patents.google.com/patent/US10902608B2){:target="_blank"}.
