@@ -8,7 +8,7 @@ tags:
   - model compression
 ---
 
-Below are notes from papers on the topic of training LLMs (and where possible, ML models in general) on edge devices. Edge devices are generally used for inference: most software libraries and literature aimed at on-device operation are aimed at efficient inference. Training on device is a less-developed area. Training on device is useful in applications where a model must be fine tuned for individual use cases. 
+I'm collecting notes from papers on the topic of training LLMs (and where possible, ML models in general) on edge devices. Edge devices are generally used for inference: most software libraries and literature aimed at on-device operation are aimed at efficient inference. Training on device is a less-developed area. Training on device is useful in applications where a model must be fine tuned for individual use cases. 
 
 #### [Efficient Fine-Tuning of BERT Models on the Edge (2022)](https://arxiv.org/abs/2205.01541) 
 

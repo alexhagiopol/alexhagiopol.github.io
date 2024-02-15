@@ -11,10 +11,10 @@ redirect_from:
 I develop new technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"}. Previously, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to efforts such as the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
 
 ## Contact:
-* [https://www.linkedin.com/in/alexhagiopol/](https://www.linkedin.com/in/alexhagiopol/){:target="_blank"} 
+* [recruit.alex.h@icloud.com](recruit.alex.h@icloud.com)
 
 ## Expertise:
-* Technical Leadership (listening and influencing, org-scale roadmap development and execution, talent development).
+* Technical Leadership (listening and influencing, organizational roadmap development and execution, talent development).
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication).
 * Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
 
