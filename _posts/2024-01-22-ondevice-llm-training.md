@@ -62,12 +62,14 @@ The authors compare metric performance of FAR versus random selection in Table 3
 - Study Design: After optimizations, the matrix multiplication kernel on the GPU is faster than on the CPU on all the tested smartphones. Next, the kernel was incorporated into the MNN training API to test backpropagation performance. The MNIST dataset is used. The paper reports the backward propagation time on all the devices for each of the models at a fixed batch size of 32. Furthermore, the paper reports the ratio of execution time on the GPU over the execution time on CPU. A simple feed-forward network model with four layers and nodes (784 → 256 → 128 → 16) was used. The optimized kernels did not help improve GPU’s performance over CPU for training.
 
 - Alternate Model Architectures: Due to the unexpected results which showed that CPU training outperformed GPU training, the authors repeated experiments with different model architectures to test how network size affects the latency. The authors chose randomized inputs (matrices filled with random numbers). Feedforward networks with the following shapes were used:
-
-• Model 1: 16  → 16
-• Model 2: 16  → 16  → 16  → 16
-• Model 3: 256 → 256
-• Model 4: 784 → 256 → 128 → 16
-
+	
+	```
+	- Model 1: 16  → 16
+	- Model 2: 16  → 16  → 16  → 16
+	- Model 3: 256 → 256
+	- Model 4: 784 → 256 → 128 → 16
+	```
+	
 ### Results
 
 - The authors find that for backpropagation, the ratios of GPU execution time to CPU execution time using both standard MNN kernels and the authors' optimized kernels are positive. This indicates that GPU training time is at least an order of magnitude slower than CPU training time. Interestingly, this ratio decreases as network size increases for the four model architectures the authors tested. 
@@ -84,4 +86,8 @@ The authors compare metric performance of FAR versus random selection in Table 3
 
 ### Alex's Comments
 
-- I did not provide notes for some major sections of this paper because I was most interested in the question "how feasible is it to train large networks on mobile devices?". This paper suggests the answer is "not very feasible" considering that the authors' data shows that in the absolute best case, GPU training is >5X slower than CPU training. However, I hesitate to fully accept this conclusion. First, the error I detected in the paper gives me pause. Furthermore, the authors only tested networks that are very small by today's standards. It would have been valuable to train much larger networks and touch the upper limits of GPU memory on the mobile devices tested. Lastly, matrix multiplication is among the most studied problems in computer science. There is *a lot* of optimization that can be done to accelerate this operation, and I don't see any citations of the many papers published on the topic. I would have liked to see deeper profiling supporting the claim that memory bandwidth is the bottleneck as well as exploration of optimization techniques to counteract this bottleneck. The authors could have gone in two alternate directions to make this a great paper: either exhaustively test existing operators on mobile devices with many different network sizes and operator implementations *or* exhaustively explore optimizations for some combination of device + library + relevant network architecture.
+- I did not provide notes for some major sections of this paper because I was most interested in the question "how feasible is it to train large networks on mobile devices?". This paper suggests the answer is "not very feasible" considering that the authors' data shows that in the absolute best case, GPU training is >5X slower than CPU training. 
+
+- However, I hesitate to fully accept that conclusion. First, the error I detected in the paper gives me pause. Furthermore, the authors only tested networks that are very small by today's standards. It would have been valuable to train much larger networks and touch the upper limits of GPU memory on the mobile devices tested. Lastly, matrix multiplication is among the most studied problems in computer science. There is *a lot* of optimization that can be done to accelerate this operation, and I don't see any citations of the many papers published on the topic. I would have liked to see deeper profiling supporting the claim that memory bandwidth is the bottleneck as well as exploration of optimization techniques to counteract this bottleneck. 
+
+- The authors could have gone in two alternate directions to make this a great paper: either exhaustively test existing operators on mobile devices with many different network sizes and operator implementations *or* exhaustively explore optimizations for some combination of device + library + relevant network architecture.
