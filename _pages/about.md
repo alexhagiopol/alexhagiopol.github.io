@@ -16,19 +16,17 @@ I develop technologies at [Meta](https://about.meta.com/realitylabs/){:target="_
 
 ## Experience:
 *[Meta](https://about.meta.com/realitylabs/){:target="_blank"}*
-* Technical Lead (2020 - Present)
+* Technical Lead, Reality Labs (2020 - Present)
 * San Francisco Bay Area, CA & New York, NY
 * Led across multiple teams implementing (a) production systems for training machine learning models underpinning [codec avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"}, and (b) on-device computer vision algorithms underpinning [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Contributed production code and technical direction in areas such as machine learning systems, algorithm optimization for CPUs and GPUs, and general software engineering.
-* Regularly delivered organization-level impact: (a) led multiple teams to optimize performance of a machine learning training system by >68% which led to a >$10B reduction in projected operating cost, (b) delivered an 800X algorithm performance improvement in a product-critical system which unblocked R&D across an organization of 100s of people, (c) created the software engineering, documentation, and testing standards used by multiple 100+ people engineering organizations at Meta which included individually mentoring dozens of senior engineers.
-
+* Regularly delivered organization-level impact: (a) led performance optimization of a machine learning training system by >68% which led to a >$10B reduction in projected operating cost, (b) landed an 800X algorithm performance improvement in a product-critical system which unblocked R&D across an organization of 100s of people, (c) created the software engineering, documentation, and testing standards used by multiple 100+ people engineering organizations at Meta which included individually mentoring dozens of senior engineers.
 
 *[Microsoft](https://www.microsoft.com/en-us/hololens){:target="_blank"}*
 * Engineer, AI Perception and Mixed Reality Group (2017 - 2019)
 * San Francisco Bay Area, CA
-* Developed scientific research into features for [HoloLens 2](https://en.wikipedia.org/wiki/HoloLens_2). Contributed machine learning and classical computer vision algorithm development in addition to production code in modern C++, CUDA, and Python. Focused on algorithm optimization for GPUs.
+* Developed scientific research into features for [HoloLens 2](https://en.wikipedia.org/wiki/HoloLens_2). Contributed production code in modern C++, CUDA, and Python. Contributed machine learning and classical computer vision algorithm development and optimization for GPUs.
 * Designed and implemented a machine learning system for high-precision human segmentation based on research in statistical learning and deep learning. Advanced the group’s state-of-the-art in the problem domain and published a
 granted patent, [US10902608B2 Segmentation for Holographic Images](https://patents.google.com/patent/US10902608B2){:target="_blank"}.
-
 
 *[DroneDeploy](https://www.dronedeploy.com){:target="_blank"}* 
 * Engineer, Computer Vision Group (2016 - 2017)
