@@ -9,6 +9,8 @@ redirect_from:
 
 I develop technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"} where I contribute to [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"} and previously [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Before Meta, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
 
+If you've found me through my [street photography](https://en.wikipedia.org/wiki/Street_photography){:target="_blank"} project, I maintain dedicated pages for it on [Instagram](https://www.instagram.com/graylevels/){:target="_blank"} and [Darkroom](https://graylevels.darkroom.com/){:target="_blank"}. 
+
 ## Expertise:
 * Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication).
@@ -16,26 +18,26 @@ I develop technologies at [Meta](https://about.meta.com/realitylabs/){:target="_
 
 ## Experience:
 *[Meta](https://about.meta.com/realitylabs/){:target="_blank"}*
-* Staff Engineer, Reality Labs (2020 - Present)
+* Staff Engineer, Machine Learning Systems (2020 - Present)
 * San Francisco Bay Area, CA & New York, NY
 * Led across multiple teams implementing (a) production systems for training machine learning models underpinning [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"}, and (b) on-device computer vision algorithms underpinning [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Contributed production code and technical direction in areas such as machine learning systems, algorithm optimization for CPUs and GPUs, and general software engineering.
 * Regularly delivered organization-level impact: (a) led performance optimization of a machine learning training system by >80% which led to a >$10B reduction in projected operating cost, (b) landed an 800X algorithm performance improvement in a product-critical system which unblocked R&D across an organization of 100s of people, (c) created the software engineering, documentation, and testing standards used by multiple 100+ people engineering organizations at Meta which included individually mentoring dozens of senior engineers.
 
 *[Microsoft](https://www.microsoft.com/en-us/hololens){:target="_blank"}*
-* Engineer, AI Perception and Mixed Reality Group (2017 - 2019)
+* Engineer, AI Perception and Mixed Reality (2017 - 2019)
 * San Francisco Bay Area, CA
 * Developed scientific research into features for [HoloLens 2](https://en.wikipedia.org/wiki/HoloLens_2). Contributed production code in modern C++, CUDA, and Python. Contributed machine learning and classical computer vision algorithm development and optimization for GPUs.
 * Designed and implemented a machine learning system for high-precision human segmentation based on research in statistical learning and deep learning. Advanced the group’s state-of-the-art in the problem domain and published a
 granted patent, [US10902608B2 Segmentation for Holographic Images](https://patents.google.com/patent/US10902608B2){:target="_blank"}.
 
 *[DroneDeploy](https://www.dronedeploy.com){:target="_blank"}* 
-* Engineer, Computer Vision Group (2016 - 2017)
+* Engineer, Computer Vision (2016 - 2017)
 * San Francisco Bay Area, CA
 * Founded the company's computer vision group as the 14th employee.
 * Created and shipped the company's core computer vision technology to >3000 customers which led to securing Series C venture capital funding. 
 
 *[NASA](https://www.nasa.gov){:target="_blank"}*                          
-* Research Intern, Autonomy Incubator Group (2015 - 2016)
+* Research Intern, Autonomy Incubator (2015 - 2016)
 * Hampton, VA & Remote
 * Contributed computer vision research and software to an [early prototype](https://alexhagiopol.github.io/posts/2016/02/visual-odometry/) of [NASA's Ingenuity Mars helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)). 
 
