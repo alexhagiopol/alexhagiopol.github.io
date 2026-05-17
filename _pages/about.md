@@ -9,8 +9,6 @@ redirect_from:
 
 I develop technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"} where I contribute to [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"} and previously [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Before Meta, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
 
-If you've met me through street photography, I maintain dedicated pages for it on [Instagram](https://www.instagram.com/graylevels/){:target="_blank"} and [Darkroom](https://graylevels.darkroom.com/){:target="_blank"}.
-
 ## Expertise:
 * Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
 * Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication).
