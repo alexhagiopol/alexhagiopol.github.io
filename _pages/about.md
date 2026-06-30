@@ -10,7 +10,7 @@ redirect_from:
 I develop AI technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"} where I contribute to [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"} and previously [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Before Meta, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
 
 ## Expertise:
-* Engineering (systems design, implementation, optimization).
+* Engineering (systems design, implementation, optimization) in modern C++, CUDA, and Python including agent-driven approaches.
 * Research and Development (scientific literature review, algorithm development, evaluation, technical communication).
 * Technical Leadership (listening and influencing, organizational roadmap development and execution, talent development).
 
