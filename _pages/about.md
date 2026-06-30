@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I develop technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"} where I contribute to [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"} and previously [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Before Meta, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
+I develop AI technologies at [Meta](https://about.meta.com/realitylabs/){:target="_blank"} where I contribute to [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"} and previously [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Before Meta, my career spanned Silicon Valley startups, Microsoft, and NASA where I contributed to the [Microsoft HoloLens](https://en.wikipedia.org/wiki/HoloLens_2){:target="_blank"} and the [NASA Mars Helicopter](https://en.wikipedia.org/wiki/Ingenuity_(helicopter)){:target="_blank"}. I like working at the intersection of math, code, and leadership.
 
 ## Expertise:
-* Engineering (systems design, implementation, optimization, code review, refactoring, unit testing, large codebase maintenance, version control).
-* Research and Development (scientific literature review, algorithm development, algorithm implementation, algorithm evaluation, technical communication).
+* Engineering (systems design, implementation, optimization).
+* Research and Development (scientific literature review, algorithm development, evaluation, technical communication).
 * Technical Leadership (listening and influencing, organizational roadmap development and execution, talent development).
 
 ## Experience:
 *[Meta](https://about.meta.com/realitylabs/){:target="_blank"}*
-* Staff Engineer, Machine Learning Systems (2020 - Present)
+* Staff / Principal Engineer, Machine Learning Systems (2020 - Present)
 * San Francisco Bay Area, CA & New York, NY
-* Led across multiple teams implementing (a) production systems for training machine learning models underpinning [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"}, and (b) on-device computer vision algorithms underpinning [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}. Contributed production code and technical direction in areas such as machine learning systems, algorithm optimization for CPUs and GPUs, and general software engineering.
-* Regularly delivered organization-level impact: (a) led performance optimization of a machine learning training system by >80% which led to a >$10B reduction in projected operating cost, (b) landed an 800X algorithm performance improvement in a product-critical system which unblocked R&D across an organization of 100s of people, (c) created the software engineering, documentation, and testing standards used by multiple 100+ people engineering organizations at Meta which included individually mentoring dozens of senior engineers.
+* Led across multiple teams creating systems for training and inference of machine learning models underpinning products such as [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"}, [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}, and [Instagram Ads Transformstions](https://www.facebook.com/business/help/348328642954708){:target="_blank"}.  Contributed production code and technical direction in areas such as machine learning systems, algorithm performance optimization for CPUs and GPUs, and general software engineering.
+* Regularly delivered organization-level impact as both an individual contributor and as technical lead of 10-20 person engineering efforts. Examples include (a) optimizing the performance of a model training system by >90% which led to a >$10B reduction in amortized operating cost, (b) landing an 800X acceleration of algorithm research infrastructure that unblocked a 200-person R&D organization from shipping, (c) creating an AI system for automated codebase verification that accelerated the compliance process of a 1000-person organization from 3-6 months to 1 week, (d) creating the software engineering, design, and testing standards used by multiple 100-person engineering organizations at Meta which included individually mentoring dozens of senior engineers.
 
 *[Microsoft](https://www.microsoft.com/en-us/hololens){:target="_blank"}*
 * Engineer, AI Perception and Mixed Reality (2017 - 2019)
