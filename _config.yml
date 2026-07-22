@@ -21,14 +21,14 @@ repository               : "alexhagiopol/alexhagiopol.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar           : "profile.jpg"
+   avatar           : "profile.jpg"
 #  name             : "Alex Hagiopol"
-#  pronouns         : "he/him" # example: "she/her"  
+   pronouns         : "he/him" # example: "she/her"  
 #  bio              : "Short biography for the left-hand sidebar"
 #  location         : "San Francisco, CA"
 #  employer         : "Red Brick University"
 #  uri              : # URL
-#  email            : "recruit.alex.h@icloud.com" 
+   email            : "recruit.alex.h@icloud.com" 
 
   # Academic websites
 #  arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ avatar           : "profile.jpg"
 #  keybase          : # Username
 #  instagram        : # Username
 #  lastfm           : # Username
-#  linkedin         : "alexhagiopol"
+   linkedin         : "alexhagiopol"
 #  mastodon         : # URL
 #  medium           : # URL
 #  pinterest        : # Username
