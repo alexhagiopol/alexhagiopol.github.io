@@ -28,7 +28,7 @@ author:
 #  location         : "San Francisco, CA"
 #  employer         : "Red Brick University"
 #  uri              : # URL
-  email            : "recruit.alex.h@icloud.com" 
+#  email            : "recruit.alex.h@icloud.com" 
 
   # Academic websites
 #  arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
 #  keybase          : # Username
 #  instagram        : # Username
 #  lastfm           : # Username
-#  linkedin         : # Username
+linkedin         : alexhagiopol
 #  mastodon         : # URL
 #  medium           : # URL
 #  pinterest        : # Username
