@@ -65,3 +65,8 @@ granted patent, [US10902608B2 Segmentation for Holographic Images](https://paten
 * Faculty Honors
 * Vice President of Tau Beta Pi
 * Studied Linear Algebra, Calculus, Statistics, Numerical Methods, Data Structures, Algorithm Design & Analysis, and Robotics.
+
+## Contact
+
+* Email: recruit.alex.h@icloud.com
+* [LinkedIn](https://linkedin.com/in/alexhagiopol){:target="_blank"}
