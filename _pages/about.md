@@ -19,7 +19,7 @@ I develop AI technologies at [Meta](https://about.meta.com/realitylabs/){:target
 * Staff Engineer, Machine Learning Systems (2020 - Present)
 * San Francisco Bay Area, CA & New York, NY
 * Led across multiple teams creating systems for training and inference of machine learning models underpinning products such as [Codec Avatars](https://youtu.be/MVYrJJNdrEg?si=a213ml-XoaPBdV5a){:target="_blank"}, [Orion Augmented Reality Glasses](https://www.meta.com/blog/quest/orion-ar-glasses-augmented-reality/){:target="_blank"}, and [Instagram Ads Auto-Optimization](https://www.facebook.com/business/help/348328642954708){:target="_blank"}.  Contributed production code and technical direction in areas such as machine learning systems, algorithm performance optimization for CPUs and GPUs, and general software engineering.
-* Regularly delivered organization-level impact as both an individual contributor and as technical lead of >10 person engineering efforts. Examples include...
+* Regularly delivered organization-level impact as an individual contributor and as a technical lead of >10 person engineering efforts. Examples include...
     - led a team that achieved a 90% acceleration and multi-billion dollar projected cost reduction of a machine learning model training system.
     - landed an 800X acceleration of algorithm research infrastructure that unblocked a 200-person R&D organization from shipping.
     - created an AI system for automated codebase verification that accelerated the compliance process of a 1000-person organization from 3-6 months to <1 week.
