@@ -32,7 +32,7 @@ I develop AI technologies at [Meta](https://about.meta.com/realitylabs/){:target
 * Designed and implemented a machine learning system for high-precision human segmentation based on research in statistical learning and deep learning. Advanced the group’s state-of-the-art in the problem domain and published a
 granted patent, [US10902608B2 Segmentation for Holographic Images](https://patents.google.com/patent/US10902608B2){:target="_blank"}.
 
-*[DroneDeploy](https://www.dronedeploy.com){:target="_blank"}* 
+*[DroneDeploy](https://www.dronedeploy.com){:target="_blank"}* ([acquired](https://www.procore.com/press/procore-to-acquire-dronedeploy-creating-next-generation-platform-that-sees-understands-and-acts-on-the-jobsite){:target="_blank"} by Procore Technologies)
 * Engineer, Computer Vision (2016 - 2017)
 * San Francisco Bay Area, CA
 * Founded the company's computer vision group as the 14th employee.
